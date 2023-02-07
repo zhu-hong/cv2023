@@ -1,0 +1,23 @@
+h1, h2 {
+  color: #000c25;
+}
+
+section {
+  color: #666A73;
+}
+
+.mark {
+  color: #ff9900;
+  display: inline-block;
+  margin: 0 0.25rem;
+}
+
+body {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 21px;
+  }
+}
